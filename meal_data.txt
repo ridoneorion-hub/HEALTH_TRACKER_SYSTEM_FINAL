@@ -1,0 +1,3 @@
+Ridone orion,Grilled Chicken Salad,Lunch,350,38,15,12
+orion,rice,Breakfast,200,12,8,2
+orion,chicken,Breakfast,180,18,12,6
